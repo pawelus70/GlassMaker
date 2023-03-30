@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ThirdWindow</class>
+ <widget class="QDialog" name="ThirdWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>498</width>
+    <height>392</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>GlassMaker</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../build-GlassMaker-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/Everaldo-Crystal-Clear-App-miscellaneous.ico</normaloff>../build-GlassMaker-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/Everaldo-Crystal-Clear-App-miscellaneous.ico</iconset>
+  </property>
+  <widget class="QTextBrowser" name="textView">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>461</width>
+     <height>361</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
